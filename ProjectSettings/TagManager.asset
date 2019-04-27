@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NumCasilla
+  - Ph
+  - Personaje
+  - AnimaPH
+  - PerPref
+  - ObjAtraccion
+  - ObjPintura
+  - ObjBloqueado
+  - ObjInmune
+  - ObjBuff
+  - ObjNerf
+  - tronco
+  - granizo
+  - dardo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: texto
+    uniqueID: 2734525077
+    locked: 0
+  - name: New Layer
+    uniqueID: 546559135
+    locked: 0
